@@ -6,7 +6,7 @@ from PIL import Image
 # --- CONFIGURATION ---
 # IMPORTANT: Replace this with the correct, accessible path in your environment.
 # In cloud deployments, you must load this file via st.file_uploader or package it with the app.
-logo_template_path = "new0.1/images/logo.png"
+logo_template_path = "Unifrom_Hav/images/logo.png"
 
 try:
     # Load Havells logo template (grayscale)
